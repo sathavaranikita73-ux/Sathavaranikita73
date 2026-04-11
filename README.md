@@ -9,8 +9,8 @@
     <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
   </a>
   <a href="https://www.youtube.com/@sathvaranikita3073" target="_blank">
-    <img src="https://skillicons.dev/icons?i=youtube" height="50" />
-  </a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" height="40">
+</a>
   <a href="mailto:Sathvaranikita73@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="50" />
   </a>
